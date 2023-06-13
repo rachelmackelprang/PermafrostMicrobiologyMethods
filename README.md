@@ -1,11 +1,11 @@
 # Permafrost microbiology methods and protocols
 
-###DNA and RNA extraction
-- [Pleistocene yedoma permafrost and other carbon-rich cold soils]
+### DNA and RNA extraction
+* [Pleistocene yedoma permafrost and other carbon-rich cold soils](https://github.com/rachelmackelprang/PermafrostMicrobiologyMethods/blob/main/DNA%20RNA%20co-extraction%20from%20humic-rich%20soils.md#dna-rna-co-extraction-from-humic-rich-soils)
 
 
-###Sequencing libraries
+### Sequencing libraries
 
 
-###Culture media
+### Culture media
 
