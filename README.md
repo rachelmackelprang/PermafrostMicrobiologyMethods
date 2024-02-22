@@ -12,6 +12,7 @@
 
 ### Sequencing libraries
 
+* [emPCR for low DNA yield and contaminated samples](https://github.com/rachelmackelprang/PermafrostMicrobiologyMethods/blob/main/emPCR_protocol.pdf)
 
 ### Culture media
 
