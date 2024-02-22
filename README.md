@@ -1,6 +1,10 @@
 # Permafrost microbiology methods and protocols
 ## This site is under construction and we are working on adding protcols.
 
+### Sample collection and coring
+* [Frozen finger method for water-saturated soils](https://github.com/rachelmackelprang/PermafrostMicrobiologyMethods/blob/main/USGS-SEL%20frozen%20finger%20protocol%202015%20v3.pdf)
+
+
 ### DNA extraction
 * [Rhizosphere (root wash followed by extraction with Qiagen kit)](https://github.com/rachelmackelprang/PermafrostMicrobiologyMethods/blob/main/Rhizosphere%20DNA%20extraction%20protocol.pdf)
 
