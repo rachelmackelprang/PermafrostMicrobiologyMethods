@@ -6,6 +6,8 @@
 
 
 ### DNA extraction
+*[Low biomass cold soils including deep subsurface permafrost](https://drive.google.com/file/d/12x01o8nRfSIoatZlof2N2x5F4dG3cKiZ/view?usp=drive_link)
+
 * [Rhizosphere (root wash followed by extraction with Qiagen kit)](https://github.com/rachelmackelprang/PermafrostMicrobiologyMethods/blob/main/Rhizosphere%20DNA%20extraction%20protocol.pdf)
 
 ### DNA and RNA co-extraction
