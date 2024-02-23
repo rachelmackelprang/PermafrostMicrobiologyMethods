@@ -20,7 +20,7 @@
 * [Rhizosphere](https://github.com/rachelmackelprang/PermafrostMicrobiologyMethods/blob/main/Rhizosphere%20DNA%20extraction%20protocol.pdf)
 
 ### DNA and RNA co-extraction
-* [Pleistocene yedoma permafrost and other carbon-rich cold soils (modified Qiagen kit)](https://github.com/rachelmackelprang/PermafrostMicrobiologyMethods/blob/main/DNA%20RNA%20co-extraction%20from%20humic-rich%20soils.md#dna-rna-co-extraction-from-humic-rich-soils)
+* [Pleistocene yedoma permafrost and other carbon-rich cold soils](https://github.com/rachelmackelprang/PermafrostMicrobiologyMethods/blob/main/DNA%20RNA%20co-extraction%20from%20humic-rich%20soils.md#dna-rna-co-extraction-from-humic-rich-soils)
 
 ### RNA extraction
 * [Organic and mineral soils (phenol/chloroform/CTAB)](https://github.com/rachelmackelprang/PermafrostMicrobiologyMethods/blob/main/RNAExtractionMineralOrganic.pdf)
