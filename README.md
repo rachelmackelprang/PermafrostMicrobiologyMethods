@@ -10,6 +10,7 @@
   
 * [Peat]
 * [Humic-rich Pleistocene permafrost and other low-biomass humic soils]
+* [Low-biomass mineral and clay soils]
 
 * [Rhizosphere (root wash followed by extraction with Qiagen kit)](https://github.com/rachelmackelprang/PermafrostMicrobiologyMethods/blob/main/Rhizosphere%20DNA%20extraction%20protocol.pdf)
 
