@@ -3,7 +3,12 @@
 
 ### Sample collection and coring
 * [Frozen finger method for water-saturated soils](https://github.com/rachelmackelprang/PermafrostMicrobiologyMethods/blob/main/USGS-SEL%20frozen%20finger%20protocol%202015%20v3.pdf)
-
+* [SIPRE coring]
+* [Smashy-grabby]
+  
+### Aseptic sample processing
+* [Subsectioning using a wet saw]
+* 
 
 ### DNA extraction
 * [Low biomass cold soils including deep subsurface permafrost](https://drive.google.com/file/d/12x01o8nRfSIoatZlof2N2x5F4dG3cKiZ/view?usp=drive_link)
@@ -23,9 +28,19 @@
 ### Sequencing libraries
 
 * [emPCR for low DNA yield and contaminated samples](https://github.com/rachelmackelprang/PermafrostMicrobiologyMethods/blob/main/emPCR_protocol.pdf)
+* [rRNA depletion]
+* [Metatranscriptomic libraries]
 
-### Cultivation
+### Cultivation, cell extractions, and microscopy
 
 * [Table of cultivation strategies depending on organism ecophysiology](https://github.com/rachelmackelprang/PermafrostMicrobiologyMethods/blob/main/Cultivation%20strategies%20for%20permafrost%20microorganisms.pdf)
+
+* [Endospore enrichment]
+
+### Incubations and thaw experiments
+* [SIP]
+
+* [Growth chambers and respiration]
+ 
 
 
