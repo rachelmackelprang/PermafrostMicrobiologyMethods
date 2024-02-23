@@ -18,5 +18,8 @@
 
 * [emPCR for low DNA yield and contaminated samples](https://github.com/rachelmackelprang/PermafrostMicrobiologyMethods/blob/main/emPCR_protocol.pdf)
 
-### Culture media
+### Cultivation
+
+* [Table of cultivation strategies depending on organism ecophysiology](https://github.com/rachelmackelprang/PermafrostMicrobiologyMethods/blob/main/Cultivation%20strategies%20for%20permafrost%20microorganisms.pdf)
+
 
